@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Container
+{
+    display: flex;
+    background-color: black;
+    height: 100px;
+    justify-content: space-between;
+
+}
+.logo img{
+    width:200px;
+    height:100px;
+}
+.buttons 
+{       
+    
+    display: flex;
+    /* margin-top: 20px;; */
+    width: 200px;
+    position: relative;
+    top: 30px;
+    border-radius: 40px;
+
+}
